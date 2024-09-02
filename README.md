@@ -1,2 +1,2 @@
 # Basic_C_Programming
- Educational materials for students
+Навчальні матеріали для студентів 1-го курсу з основ програмування  (процедурне програмування на С/C++) 
